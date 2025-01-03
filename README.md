@@ -1,4 +1,4 @@
-## 캡스톤 디자인1 2024-1 - 동화 변환 롤플레잉 서비스[동화나라로]
+## 동화 변환 롤플레잉 서비스[동화나라로]
 <img width="325" alt="Screenshot 2024-12-30 at 9 54 54 PM" src="https://github.com/user-attachments/assets/0360693b-8443-4d21-849f-90b83dec52af" />
 
 <br>
