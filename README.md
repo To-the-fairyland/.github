@@ -37,17 +37,6 @@ AI 캐릭터들과 상호작용할 수 있는 서비스를 제공합니다
             </a> 
         </td>
     </tr>
-    <tr align="center">
-        <td>
-            Unity 
-        </td>
-        <td>
-            Unity
-        </td>
-        <td>
-            AI
-        </td>
-    </tr>
 </table>
 <br/><br/>
 
